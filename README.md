@@ -8,6 +8,7 @@ Com o token em mãos, utilizamos a [Graph API](https://developers.facebook.com/d
 ## Configurando projeto
 **Atenção:** O projeto foi feito para rodar somente em **ANDROID**.
 
+- Execute o *npm install* dentro da pasta *mobileapp*.
 - Crie um aplicativo na área de [desenvolvedor do facebook](https://developers.facebook.com/apps/).
 - Pegue o ID do aplicativo e coloque no arquivo strings.xml do android, na string "facebook_app_id" (*Caminho: android\app\src\main\res\values\strings.xml*).
-- Rode o projeto com *react-native run-android*
+- Rode o projeto com *react-native run-android* (Você tem que ter um emulador configurado **ou** um smartphone Android conectado via USB com a **depuração USB** ativada).
