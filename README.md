@@ -1,5 +1,5 @@
 # ReactNative-Facebook-Login
-Aplicação simples para autenticação via Facebook usando React Native.
+Aplicação simples para autenticação via Facebook usando React Native no Android.
 
 ## Como funciona?
 Ao usar o login, o primeiro login retorna um Token. Esse token contém as informações básicas do usuário e as permissões que o mesmo permitiu que o aplicativo acesse.
