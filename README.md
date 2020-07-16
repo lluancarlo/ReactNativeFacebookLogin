@@ -1,4 +1,4 @@
-# ReactNative-Facebook-Login
+# ReactNative Facebook Login
 Aplicação simples para autenticação via Facebook usando React Native no Android.
 
 ## Como funciona?
